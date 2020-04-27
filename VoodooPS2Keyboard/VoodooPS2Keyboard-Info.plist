@@ -255,7 +255,10 @@
 					</array>
 					<key>Custom ADB Map</key>
 					<array>
-						<string>;Items must be strings in the form of scanfrom=adbto (in hex)</string>
+						<string>41=4d</string>
+						<string>43=42</string>
+						<string>42=34</string>
+						<string>3e=4a</string>
 					</array>
 					<key>Custom PS2 Map</key>
 					<array>
